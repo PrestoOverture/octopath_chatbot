@@ -1,0 +1,27 @@
+## Solistia - Octopath Traveler II
+
+- **Setting**: Solistia is the main setting for "Octopath Traveler II" and "Octopath Traveler: Champions of the Continent".
+- **Description**: The world of Solistia is comprised of an Eastern and Western continent divided by the Sundering Sea. The era depicted in the game is bustling, characterized by large vessels navigating busy sea routes and the emergence of steam-powered technologies.
+- **Mythology**:
+  - According to the Hooded Man in the "Side Solistia" prologue, the god "Solis" created the world, bringing light, time, and the concept of "tomorrow", bestowing people with future and hope. This world is named after the god as "Solistia".
+- **Regions**:
+  - Toto'haha, Harborlands, Brightlands, Winterlands, Wildlands, Leaflands, Crestlands, Hinoeuma, the Sundering Sea, Vidania.
+- **Towns and Relevant Locations**:
+  - **Toto'haha**: Beasting Village, Tropu'hopu, Nameless Village.
+  - **Harborlands**: Canalbrine, Conning Creek, Roque Island.
+  - **Brightlands**: New Delsta, Clockbank, Lostseed.
+  - **Winterlands**: Frigit Isle, Stormhail, Winterbloom, Cape Cold.
+  - **Wildlands**: Oresrush, Crackridge, Gravell.
+  - **Leaflands**: Cropdale, Wellgrove, Timberain.
+  - **Crestlands**: Flamechurch, Montwise, Merry Hills.
+  - **Hinoeuma**: Ku, Sai, Ryu.
+- **World Map Details**:
+  - Includes various regions such as Leaflands, Hinoeuma, Harborlands, Wildlands, Toto'haha, Frigit Isle, Winterlands, Crestlands, Brightlands, The Sundering Sea, and related locations like Lighthouse Island and Curious Nest.
+- **Trivia**:
+  - The eastern and western continents might have been previously unified according to a scholar in Montwise: Library.
+  - During the Age of Exploration, ships were sent from Canalbrine to discover eastern sea routes.
+  - Solistia's uncharted areas are known as the Outer Continent.
+  - The constellation "Cetus" appears in Solistia's sky, and the region experiences slightly extended night hours hinting at a potential return of the "Shadow".
+  - Solistia showcases more advanced studies in monster taming compared to Orsterra.
+  - 57 languages are spoken in Solistia according to a Scholar in Montwise.
+  - Records mention a historical war between Solistia's two continents.
