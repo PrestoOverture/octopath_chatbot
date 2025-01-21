@@ -9,4 +9,8 @@ Downland the [octopath_chatbot.ipynb](octopath_chatbot.ipynb) file to your Googl
 
 # Results
 The following are screenshots of the project output:
-[Chatbot Screenshot](chatbot_example2.png)
+![Chatbot Screenshot](chatbot_example2.jpg)
+![Chatbot Screenshot](chatbot_example1.jpg)
+
+And output scatter plots for vector stores:
+![vectorstore]()
