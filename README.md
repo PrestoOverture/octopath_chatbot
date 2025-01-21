@@ -1,2 +1,8 @@
-# octopath_chatbot
-A chatbot that answers question about the video game Octopath Traveler II with Gradio interface
+# Octopath Chatbot
+A chatbot that answers questions about the video game Octopath Traveler II with the Gradio interface.
+
+# Get Started
+It can be run anywhere on your Google Colab with your OpenAI API key read in the Secrets. 
+
+# Usage
+Keep running cells until the last one, where is the chatbot. 
