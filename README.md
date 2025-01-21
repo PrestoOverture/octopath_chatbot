@@ -5,4 +5,4 @@ A chatbot that answers questions about the video game Octopath Traveler II with 
 It can be run anywhere on your Google Colab with your OpenAI API key read in the Secrets. 
 
 # Usage
-Downland the 'octopath_chatbot.ipynb' to your Google Drive. Keep running cells until the last one, where is the chatbot. 
+Downland the [octopath_chatbot.ipynb] to your Google Drive. Keep running cells until the last one, where is the chatbot. 
