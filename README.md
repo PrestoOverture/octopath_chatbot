@@ -13,5 +13,5 @@ The following are screenshots of the project output:
 ![Chatbot Screenshot](screenshots/chatbot_example1.jpg)
 
 And output scatter plots for vector stores:
-![vectorstore](vectorstore2d.jpg)
-![vectorstore](vectorstore3d.jpg)
+![vectorstore](screenshots/vectorstore2d.jpg)
+![vectorstore](screenshots/vectorstore3d.jpg)
